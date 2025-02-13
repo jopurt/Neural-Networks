@@ -3,7 +3,9 @@ This repo contains 3 implementations of different Neural Network models(x + 2, a
 
 ## Structure
 Each folder contains 2 model implementations. 
+
 For the first one, Python and standard libraries were used. 
+
 For the second one, PyTorch(CUDA) was used.
 
 ### 1.Linear model (x+2)
