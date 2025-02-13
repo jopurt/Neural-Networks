@@ -16,6 +16,7 @@ Implementation of basic nonlinear model with 2 inputs and 1 neuron.
 
 ### 3.Complex nonlinear model (xor | xnor)
 Implementation of complex nonlinear model with 2 inputs, 2 neuron on first layer and 1 neuron second layer.
+
 We can represent xor/xnor as: 
 
 xor = (a OR b) AND (a AND b)
