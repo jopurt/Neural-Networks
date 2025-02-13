@@ -2,8 +2,9 @@
 This repo contains 3 implementations of different Neural Network models(x + 2, and/or, xor/xnor).
 
 ## Structure
-Each folder contains implementation of model. 
-Python and standard libraries were used for this
+Each folder contains 2 model implementations. 
+For the first one, Python and standard libraries were used. 
+For the second one, PyTorch(CUDA) was used.
 
 ### 1.Linear model (x+2)
 Implementation of basic linear model with 1 neuron.
